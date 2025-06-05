@@ -5,7 +5,7 @@ function Experiencia() {
       <iframe
         width="100%"
         height="315"
-        src="https://youtu.be/a2jkUvRtlg0?si=0SeYInW814k0beKF"
+        src="https://youtu.be/3T1MWrtrOR4"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope"
         allowFullScreen
